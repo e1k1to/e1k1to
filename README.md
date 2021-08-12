@@ -1,13 +1,13 @@
-# Iai Nerd, Tranqs? 🐱‍👓
+# 🐱‍👓 Iai Nerd, Tranqs? 
 
-## Top 5 coisas fodas 😎
+## 😎 Top 5 coisas fodas:
 - Eu 👨‍💻
 - Meu PC 🖥⌨🖱
 - Python 🐍
 - 100 Gecs 🤑
 - Meu Laptop 💻
 
-## Top 1 coisas horriveis 🤢
+## 🤢 Top 1 coisas horriveis:
 - Desenvolvimento Web 💻
 
 ## 🙏🏻Oração do Dia:
