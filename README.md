@@ -1,7 +1,5 @@
 # Iai Nerd, Tranqs? 🐱‍👓
 
-![alt text](https://tenor.com/view/100gecs-gec-gecs-geccers-laura-les-gif-17361337.gif)
-
 ## Top 3 coisas fodas 😎
 - Eu 👨‍💻
 - Meu PC 🖥⌨🖱
@@ -18,6 +16,9 @@
 
 ## ⚡ Imagine perder tempo personalizando GitHub?
  - Literal cringe 🏃‍♂️
+
+![alt text](https://tenor.com/view/100gecs-gec-gecs-geccers-laura-les-gif-17361337.gif)
+
 <!--
 **e1k1to/e1k1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
