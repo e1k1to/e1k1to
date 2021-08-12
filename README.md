@@ -7,11 +7,7 @@
 - 100 Gecs 🤑
 - Meu Laptop 💻
 
-## Top 5 coisas horriveis 🤢
-- Desenvolvimento Web 💻
-- Desenvolvimento Web 💻
-- Desenvolvimento Web 💻
-- Desenvolvimento Web 💻
+## Top 1 coisas horriveis 🤢
 - Desenvolvimento Web 💻
 
 ## 🙏🏻Oração do Dia:
