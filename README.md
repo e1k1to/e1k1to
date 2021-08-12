@@ -1,20 +1,20 @@
-### Iai Nerd, Tranqs? 👋
+# Iai Nerd, Tranqs? 👋
 
 # Top 3 coisas fodas:
-- Eu
-- Meu PC
-- Python
+- Eu👨‍💻
+- Meu PC🖥⌨🖱
+- Python 🐍
 
 # Top 3 coisas horriveis:
-- Desenvolvimento Web
-- Desenvolvimento Web
-- Desenvolvimento Web
+- Desenvolvimento Web 💻
+- Desenvolvimento Web 💻
+- Desenvolvimento Web 💻
 
 ##🙏🏻Oração do Dia:
 
-    > "Livrai-me dos bico sujo, dos atrasa lado, dos Zé Povinho, dos invejosos, dos talaricos e das vadias. 👊🏼
+### "Livrai-me dos bico sujo, dos atrasa lado, dos Zé Povinho, dos invejosos, dos talaricos e das vadias. 👊🏼
 
-    > Amém!"🙌🏽
+### Amém!"🙌🏽
 
 - ⚡ Imagine perder tempo personalizando GitHub?
     > Literal cringe
