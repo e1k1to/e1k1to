@@ -1,11 +1,11 @@
 # Iai Nerd, Tranqs? 🐱‍👓
 
-## Top 3 coisas fodas 😎:
+## Top 3 coisas fodas 😎
 - Eu👨‍💻
 - Meu PC🖥⌨🖱
 - Python 🐍
 
-## Top 3 coisas horriveis 🤢:
+## Top 3 coisas horriveis 🤢
 - Desenvolvimento Web 💻
 - Desenvolvimento Web 💻
 - Desenvolvimento Web 💻
