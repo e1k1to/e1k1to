@@ -14,8 +14,9 @@
 ### "Livrai-me dos bico sujo, dos atrasa lado, dos Zé Povinho, dos invejosos, dos talaricos e das vadias. 👊🏼
 ### Amém!"🙌🏽
 
-- ⚡ Imagine perder tempo personalizando GitHub?
-    - Literal cringe
+
+## ⚡ Imagine perder tempo personalizando GitHub?
+    # Literal cringe
 <!--
 **e1k1to/e1k1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
