@@ -1,11 +1,15 @@
 # Iai Nerd, Tranqs? 🐱‍👓
 
-## Top 3 coisas fodas 😎
+## Top 5 coisas fodas 😎
 - Eu 👨‍💻
 - Meu PC 🖥⌨🖱
 - Python 🐍
+- 100 Gecs 🤑
+- Meu Laptop 💻
 
-## Top 3 coisas horriveis 🤢
+## Top 5 coisas horriveis 🤢
+- Desenvolvimento Web 💻
+- Desenvolvimento Web 💻
 - Desenvolvimento Web 💻
 - Desenvolvimento Web 💻
 - Desenvolvimento Web 💻
