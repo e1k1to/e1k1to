@@ -11,8 +11,8 @@
 - Desenvolvimento Web 💻
 
 ## 🙏🏻Oração do Dia:
- - "Livrai-me dos bico sujo, dos atrasa lado, dos Zé Povinho, dos invejosos, dos talaricos e das vadias. 👊🏼
- -  Amém!"🙌🏽
+    "Livrai-me dos bico sujo, dos atrasa lado, dos Zé Povinho, dos invejosos, dos talaricos e das vadias. 👊🏼
+     Amém!"🙌🏽
 
 
 ## ⚡ Imagine perder tempo personalizando GitHub?
