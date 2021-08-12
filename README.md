@@ -1,8 +1,8 @@
 # Iai Nerd, Tranqs? 🐱‍👓
 
 ## Top 3 coisas fodas 😎
-- Eu👨‍💻
-- Meu PC🖥⌨🖱
+- Eu 👨‍💻
+- Meu PC 🖥⌨🖱
 - Python 🐍
 
 ## Top 3 coisas horriveis 🤢
