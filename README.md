@@ -16,7 +16,7 @@
 
 ## ⚡ Imagine perder tempo personalizando GitHub?
  - Literal cringe 🏃‍♂️
- - [To assim 🤐](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ - [To assim 🤐](shorturl.at/anqHU)
 
 ![alt text](https://tenor.com/view/100gecs-gec-gecs-geccers-laura-les-gif-17361337.gif)
 
