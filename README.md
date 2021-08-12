@@ -1,6 +1,6 @@
 # Iai Nerd, Tranqs? 🐱‍👓
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2F100gecs-mask-pose-cropped-top-gif-17462388&psig=AOvVaw2YKjUkkgNnw13fJKpJW6ry&ust=1628898489707000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCJil5fDVrPICFQAAAAAdAAAAABBP)
+![alt text](https://tenor.com/view/100gecs-gec-gecs-geccers-laura-les-gif-17361337)
 
 ## Top 3 coisas fodas 😎
 - Eu 👨‍💻
