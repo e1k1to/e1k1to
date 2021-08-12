@@ -1,4 +1,4 @@
-# Iai Nerd, Tranqs? 👋
+# Iai Nerd, Tranqs? 🐱‍👓
 
 ## Top 3 coisas fodas:
 - Eu👨‍💻
@@ -15,7 +15,7 @@
 ### Amém!"🙌🏽
 
 - ⚡ Imagine perder tempo personalizando GitHub?
-    > Literal cringe
+    - Literal cringe
 <!--
 **e1k1to/e1k1to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
