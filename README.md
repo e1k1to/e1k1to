@@ -7,9 +7,6 @@
 - 100 Gecs 🤑
 - Meu Laptop 💻
 
-## 🤢 Top 1 coisas horriveis:
-- Desenvolvimento Web 💻
-
 ## 🙏🏻 Oração do Dia:
 - "Livrai-me dos bico sujo, dos atrasa lado, dos Zé Povinho, dos invejosos, dos talaricos e das vadias. 👊🏼 Amém!" 🙌🏽
 
