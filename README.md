@@ -3,7 +3,7 @@
 ## 😎 Top 5 coisas fodas:
 - Eu 👨‍💻
 - Meu PC 🖥⌨🖱
-- Python 🐍 //Duvidoso
+- Cplewplew
 - 100 Gecs 🤑
 - Meu Laptop 💻
 
