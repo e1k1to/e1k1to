@@ -9,4 +9,4 @@
 
 ## ⚡ Imagine perder tempo personalizando GitHub?
  - Literal cringe 🏃‍♂️
- - [To assim 🤐](https://shorturl.at/anqHU)
+ - [To assim 🤐](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
