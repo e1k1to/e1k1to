@@ -4,7 +4,7 @@
 - Eu 👨‍💻
 - Meu PC 🖥⌨🖱
 - Cplewplew
-- 100 Gecs 🤑
+- Kero Kero Bonito 🦩
 - Meu Laptop 💻
 
 ## ⚡ Imagine perder tempo personalizando GitHub?
