@@ -1,9 +1,9 @@
 # 🐱‍👓 Iai Nerd, Tranqs? 
 
-## 😎 Top 5 coisas fodas:
+## 😎 Top 5 coisas poggers:
 - Eu 👨‍💻
 - Meu PC 🖥⌨🖱
-- Cplewplew
+- Python
 - Kero Kero Bonito 🦩
 - Meu Laptop 💻
 
